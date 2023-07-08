@@ -1,5 +1,5 @@
 ### Raul Ramos aqui :)
-Atualmente Analista de Dados, e estudando para me tornar um Cientista de Dados. Antes de me apaixonar por dados, fui um entusiasta de infraestrutura de TI.
+Atualmente Analista de Dados e estudando para me tornar um Cientista de Dados. Antes de me apaixonar por dados, fui um entusiasta de infraestrutura de TI.
 
 - 👨🏻‍💻 **Analista de Dados** no [Santander](https://www.santander.com.br)
 - ⚽ Apaixonado por **futebol**
