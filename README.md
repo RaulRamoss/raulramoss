@@ -3,7 +3,7 @@ Atualmente Analista de Dados e estudando para me tornar um Cientista de Dados. A
 
 - 👨🏻‍💻 **Analista de Dados** no [Santander](https://www.santander.com.br)
 - ⚽ Apaixonado por **futebol**
-- 🔎 Estudante de **Ciência de Dados**
+- 📚 Estudante de **Ciência de Dados**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
